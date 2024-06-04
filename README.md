@@ -6,7 +6,7 @@
 	<ul>
 		<img src="https://raw.githubusercontent.com/rsgrava/rsgrava/main/assets/megaten%20programming.gif" align="right" height=240>
 		<li> <b> Online Username: </b> 🐍🔥 Serpens Ignis </li>
-		<li> <b> Age: </b> 23 </li>
+		<li> <b> Age: </b> 24 </li>
 		<li> <b> Nationality: </b> 🇧🇷 Brasilian </li>
 		<li> <b> Interests: </b> 🎮Videogames, 💻Computers, <br> 🇯🇵Japanese Media, 🎲 Tabletop Gaming
 		</li>
