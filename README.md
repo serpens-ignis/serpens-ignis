@@ -9,7 +9,7 @@
 		<li> <b> Nationality: </b> 🇧🇷 Brasilian </li>
 		<li> <b> Interests: </b> 🎮Videogames, 💻Computers, <br> 🇯🇵Japanese Media, 🎲 Tabletop Gaming
 		</li>
-		<li> <b> Programming Interests: </b> romhacking, retrocomputing, <br> gamedev, AI and data science </li>
+		<li> <b> Programming Interests: </b> romhacking, retrocomputing, <br> gamedev, AI/ML and data science </li>
 	</ul>
 	<br>
 	<br>
